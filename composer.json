@@ -1,0 +1,24 @@
+{
+  "name": "fpJSErrorNotifierPlugin",
+  "type": "symfony1-plugin",
+  "description": "A symfony plugin that add ability to catch all kind of JavaScript errors and send them as an email.",
+  "keywords": [
+    "error",
+    "notifier",
+    "email",
+    "javascript"
+  ],
+  "homepage": "https://github.com/66Ton99/fpJSErrorNotifierPlugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ton Sharp",
+      "email": "Forma-PRO@66ton99.org.ua"
+    }
+  ],
+  "require": {
+    "php": ">=5.2",
+    "composer/installers": "v1.0.0",
+    "fpErrorNotifierPlugin": "dev-master"
+  }
+}

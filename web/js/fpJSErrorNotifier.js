@@ -1,0 +1,3 @@
+window.fpJSErrorNotifier = (function() {
+
+})();
