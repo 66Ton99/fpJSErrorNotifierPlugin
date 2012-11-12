@@ -1,0 +1,4 @@
+fp_js_error_notifier:
+  url:      "/test/fpJSErrorNotifier/*"
+  param:    { module: fpJSErrorNotifier, action: index }
+  options:  { app_expose: true }
