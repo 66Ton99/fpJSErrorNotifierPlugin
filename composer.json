@@ -20,9 +20,5 @@
     "php": ">=5.2",
     "composer/installers": "v1.0.0",
     "fpErrorNotifierPlugin": "dev-master"
-  },
-  "suggest": {
-    "jQuery": "It is require to send AJAX requests but don't have composer",
-    "chCmsExposeRoutingPlugin": "It is require but don't have composer"
   }
 }
